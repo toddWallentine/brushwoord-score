@@ -1,2 +1,4 @@
-# brushwoord-score
-A scoring application for the Brushwood golf club
+# Brushwood Golf Club Scoring
+
+This application provides a C#-based command line application that is a prototype of the scoring system for
+the Brushwood Golf Club.
